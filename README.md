@@ -1,5 +1,7 @@
 # school-rants
 
+<img src="https://travis-ci.org/SchoolRants/SchoolRants.svg?branch=master" alt="travis"/>
+
 > A Vue.js project
 
 [ESLint Rule](https://github.com/airbnb/javascript)
