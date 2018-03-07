@@ -9,10 +9,12 @@
         class="mx-3"
         flat
       ></v-text-field>
-			<v-spacer></v-spacer>
 			<v-btn color="info">
 				Add Rant
 			</v-btn>
+			<div>
+				Login / Signup
+			</div>
 		</v-toolbar>
 	</header>
 </template>
